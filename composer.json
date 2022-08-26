@@ -1,0 +1,29 @@
+{
+    "name": "ztf/traits",
+    "description": "Магические методы классов",
+    "type": "ztf-bundle",
+    "keywords": ["Ztf", "Traits"],
+    "homepage": "https://github.com/zorinalexey/ztf-settings",
+    "minimum-stability": "stable",
+    "prefer-stable": true,
+    "license": "MIT",
+    "version": "1.0.0",
+    "support": {
+        "email": "alex-4-17@yandex.ru"
+    },
+    "authors": [
+        {
+            "name": "Зорин Алексей",
+            "email": "alex-4-17@yandex.ru",
+            "role": "Developer"
+        }
+    ],
+    "autoload": {
+        "psr-4": {
+            "Ztf\\Traits\\": "src/"
+        }
+    },
+    "require": {
+        "php": ">=5.6"
+    }
+}
