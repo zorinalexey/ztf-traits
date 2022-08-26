@@ -20,7 +20,7 @@
     ],
     "autoload": {
         "psr-4": {
-            "Ztf\\Traits\\": "src/"
+            "Ztf\\Traits\\": "src/traits/"
         }
     },
     "require": {
