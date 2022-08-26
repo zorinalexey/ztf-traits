@@ -3,7 +3,7 @@
     "description": "Магические методы классов",
     "type": "ztf-bundle",
     "keywords": ["Ztf", "Traits"],
-    "homepage": "https://github.com/zorinalexey/ztf-settings",
+    "homepage": "https://github.com/zorinalexey/ztf-traits",
     "minimum-stability": "stable",
     "prefer-stable": true,
     "license": "MIT",
